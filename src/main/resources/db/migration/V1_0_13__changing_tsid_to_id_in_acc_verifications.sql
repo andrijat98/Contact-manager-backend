@@ -1,0 +1,1 @@
+ALTER TABLE account_verifications RENAME COLUMN user_tsid TO user_id;
